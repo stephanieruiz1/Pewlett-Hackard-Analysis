@@ -36,7 +36,7 @@ The employees expected to retire are a total of 72,458 at Pewlett Hackard.
 ### This table shows how many people participate in a mentorship program and their titles
 ![mentor_count](mentor_count.png)
 
-Employees who are eligible to participate in a mentorship program  are 1549 from the year of 1965. That means that each member needs to train around 46-47 people in 4 year, 11-12 per year. which is impossible. I would say that maximun of new employees to train is 1-2 people per year to have a good quality of new employees. 
+Employees who are eligible to participate in a mentorship program  are 1549 from the year of 1965. That means that each member needs to train around 46-47 people in 4 year, 11-12 per year and 1 per month. which is impossible. I would say that maximun of new employees to train is 1-2 people per year to have a good quality of new employees. 
 For that reason I will recommend the mentorship program to be extended a few years between 1964-1965.After that we see that 19,905 employees will be able to train 72,458 new employees in 4 years. That is a better option because it will be 4 traines for each employee in 4 years.
 ### This table is mentorship extended between 1964-1965
 ![mentor_count1964](mentor_count1964.png)
